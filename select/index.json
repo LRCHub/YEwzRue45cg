@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "マジか！",
+  "base_artist": "梓川",
+  "createdAt": "2026-02-13T12:32:32.529252Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マジか",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_マジか_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マジか！ - MAJIKA!",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/02_マジか!_-_MAJIKA!_梓川.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マジか!",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/pl_01_マジか!_梓川.txt"
+    }
+  ]
+}
